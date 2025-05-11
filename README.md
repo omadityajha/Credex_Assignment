@@ -151,4 +151,5 @@ yarn lint
 
 ---
 **Built with ✨ by Omaditya Jha**
+
 **Time taken to build is 5-6hrs with partial coding as well as vibe coding**
