@@ -69,7 +69,7 @@ Ensure the following tools are installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/softsell.git
+git clone https://github.com/omadityajha/Credex_Assignment
 cd softsell
 
 # Install dependencies
@@ -151,3 +151,4 @@ yarn lint
 
 ---
 **Built with ✨ by Omaditya Jha**
+**Time taken to build is 5-6hrs with partial coding as well as vibe coding**
