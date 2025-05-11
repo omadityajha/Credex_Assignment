@@ -152,4 +152,6 @@ yarn lint
 ---
 **Built with ✨ by Omaditya Jha**
 
-**Time taken to build is 5-6hrs with partial coding as well as vibe coding**
+**🛠️ Time Taken: 5-6 hours**
+**⏳ Development Approach: A blend of partial coding and vibe coding**
+
